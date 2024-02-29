@@ -18,7 +18,7 @@
 - [Vision-Language-Assistant](#Vision-Language-Assistant)
   - [🎉 更新](#-更新)
   - [📝 简介](#-简介)
-  - [📖 Model Zoo](#model-zoo)
+  - [📖 Model Zoo](#-model-zoo)
   - [✏️ 快速开始](#%EF%B8%8F-快速开始)
     - [1. 算力要求](#1-算力要求)
     - [2. 基于 transformers 使用模型](#2-基于-transformers-进行推理)
